@@ -4,4 +4,4 @@
 
 June 2022
 
-## **Seminar paper supervised by Marcel Fratzscher**
+## *Seminar paper supervised by Marcel Fratzscher*
